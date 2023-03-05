@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "a thel kwal diary",
+      "details": "yote lay ka chaw nay lot taw tay tar ",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "sorry",
+      "details": "I'm sorry don't leave me. I want u here with me I know that your love is gone.",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "sample 10 ",
+      "details": "This is just testing purpose only",
+      "category": "money",
+      "id": 6
+    },
+    {
+      "title": "sample 11",
+      "details": "arr lone pe  sone chain tway hti min ka nga lat kalay kaing u",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "samole 12",
+      "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis excepturi, ut eligendi tenetur inventore, quaerat, provident consequuntur optio nisi dicta deserunt maxime. Placeat omnis tempora dolorum doloribus quasi? Optio dignissimos totam officia possimus id.",
+      "category": "reminders",
+      "id": 8
+    },
+    {
+      "title": "React ",
+      "details": "built admin dashboard app using react and mui",
+      "category": "work",
+      "id": 9
+    },
+    {
+      "title": "React-book-shop-app",
+      "details": "add some local books to the app",
+      "category": "reminders",
+      "id": 10
+    },
+    {
+      "title": "Sample 20",
+      "details": "This is the 20th times of testing\n",
+      "category": "money",
+      "id": 11
+    }
+  ]
+}
