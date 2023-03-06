@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/react-note-web-app/static/css/main.025ba5b3.chunk.css",
-    "main.js": "/react-note-web-app/static/js/main.e5106295.chunk.js",
-    "main.js.map": "/react-note-web-app/static/js/main.e5106295.chunk.js.map",
+    "main.css": "/react-note-web-app/static/css/main.b3dcef7c.chunk.css",
+    "main.js": "/react-note-web-app/static/js/main.69289c2d.chunk.js",
+    "main.js.map": "/react-note-web-app/static/js/main.69289c2d.chunk.js.map",
     "runtime-main.js": "/react-note-web-app/static/js/runtime-main.5ddc2f47.js",
     "runtime-main.js.map": "/react-note-web-app/static/js/runtime-main.5ddc2f47.js.map",
-    "static/js/2.d8b934eb.chunk.js": "/react-note-web-app/static/js/2.d8b934eb.chunk.js",
-    "static/js/2.d8b934eb.chunk.js.map": "/react-note-web-app/static/js/2.d8b934eb.chunk.js.map",
+    "static/js/2.04101bcb.chunk.js": "/react-note-web-app/static/js/2.04101bcb.chunk.js",
+    "static/js/2.04101bcb.chunk.js.map": "/react-note-web-app/static/js/2.04101bcb.chunk.js.map",
     "index.html": "/react-note-web-app/index.html",
-    "static/css/main.025ba5b3.chunk.css.map": "/react-note-web-app/static/css/main.025ba5b3.chunk.css.map",
-    "static/js/2.d8b934eb.chunk.js.LICENSE.txt": "/react-note-web-app/static/js/2.d8b934eb.chunk.js.LICENSE.txt"
+    "static/css/main.b3dcef7c.chunk.css.map": "/react-note-web-app/static/css/main.b3dcef7c.chunk.css.map",
+    "static/js/2.04101bcb.chunk.js.LICENSE.txt": "/react-note-web-app/static/js/2.04101bcb.chunk.js.LICENSE.txt",
+    "static/media/kagura.e2f077c2.jpg": "/react-note-web-app/static/media/kagura.e2f077c2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5ddc2f47.js",
-    "static/js/2.d8b934eb.chunk.js",
-    "static/css/main.025ba5b3.chunk.css",
-    "static/js/main.e5106295.chunk.js"
+    "static/js/2.04101bcb.chunk.js",
+    "static/css/main.b3dcef7c.chunk.css",
+    "static/js/main.69289c2d.chunk.js"
   ]
 }
