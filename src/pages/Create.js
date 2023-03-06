@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography'
 
-import { Container, FormControl, FormLabel, RadioGroup, FormHelperText } from '@mui/material';
+import { Container, FormControl, FormLabel, RadioGroup} from '@mui/material';
 
 import { makeStyles } from '@mui/styles';
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
@@ -11,11 +11,9 @@ import TextField from '@mui/material/TextField';
 
 import Radio  from '@mui/material/Radio';
 import FormControlLabel from '@mui/material/FormControlLabel';
-import { flexbox } from '@mui/system';
 import { useHistory } from 'react-router-dom';
-
 import Dexie from 'dexie';
-import { useLiveQuery } from 'dexie-react-hooks';
+
 
 const db = new Dexie('notesApp');
 db.version(1).stores({
@@ -56,13 +54,6 @@ export default function Create() {
             setDetailsError(true)
         }
         if (title && details) {
-
-            // fetching notes data from json server
-            // fetch('http://localhost:8000/notes', {
-            //   method: 'POST',
-            //   headers: {"Content-type": "application/json"},
-            //   body: JSON.stringify({ title, details, category })
-            // }).then(() => history.push('/'))
 
             // adding data to index db
             await notesData.add({
