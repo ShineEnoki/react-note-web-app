@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-note-web-app/static/css/main.a1dad538.chunk.css",
-    "main.js": "/react-note-web-app/static/js/main.d85808cb.chunk.js",
-    "main.js.map": "/react-note-web-app/static/js/main.d85808cb.chunk.js.map",
-    "runtime-main.js": "/react-note-web-app/static/js/runtime-main.55dab43f.js",
-    "runtime-main.js.map": "/react-note-web-app/static/js/runtime-main.55dab43f.js.map",
-    "static/js/2.3cad89d3.chunk.js": "/react-note-web-app/static/js/2.3cad89d3.chunk.js",
-    "static/js/2.3cad89d3.chunk.js.map": "/react-note-web-app/static/js/2.3cad89d3.chunk.js.map",
-    "index.html": "/react-note-web-app/index.html",
-    "static/css/main.a1dad538.chunk.css.map": "/react-note-web-app/static/css/main.a1dad538.chunk.css.map",
-    "static/js/2.3cad89d3.chunk.js.LICENSE.txt": "/react-note-web-app/static/js/2.3cad89d3.chunk.js.LICENSE.txt",
-    "static/media/kagura.e2f077c2.jpg": "/react-note-web-app/static/media/kagura.e2f077c2.jpg",
-    "static/media/test.6d561f70.wav": "/react-note-web-app/static/media/test.6d561f70.wav"
+    "main.css": "/static/css/main.a1dad538.chunk.css",
+    "main.js": "/static/js/main.d85808cb.chunk.js",
+    "main.js.map": "/static/js/main.d85808cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7cd6a709.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7cd6a709.js.map",
+    "static/js/2.3cad89d3.chunk.js": "/static/js/2.3cad89d3.chunk.js",
+    "static/js/2.3cad89d3.chunk.js.map": "/static/js/2.3cad89d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a1dad538.chunk.css.map": "/static/css/main.a1dad538.chunk.css.map",
+    "static/js/2.3cad89d3.chunk.js.LICENSE.txt": "/static/js/2.3cad89d3.chunk.js.LICENSE.txt",
+    "static/media/kagura.e2f077c2.jpg": "/static/media/kagura.e2f077c2.jpg",
+    "static/media/test.6d561f70.wav": "/static/media/test.6d561f70.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.55dab43f.js",
+    "static/js/runtime-main.7cd6a709.js",
     "static/js/2.3cad89d3.chunk.js",
     "static/css/main.a1dad538.chunk.css",
     "static/js/main.d85808cb.chunk.js"
