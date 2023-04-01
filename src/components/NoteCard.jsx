@@ -9,7 +9,7 @@ import Avatar from "@mui/material/Avatar";
 
 import IconButton from "@mui/material/IconButton";
 import DeleteOutline from "@mui/icons-material/DeleteOutline";
-import { blue, green, orange, red, yellow } from "@mui/material/colors";
+import { blue, green, orange, red} from "@mui/material/colors";
 
 const useStyles = makeStyles({
     avatar: {

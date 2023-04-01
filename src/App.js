@@ -1,10 +1,20 @@
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { createBrowserRouter, createRoutesFromElements, Route, Outlet, RouterProvider } from 'react-router-dom'
 import Notes from './pages/Notes.jsx'
 import Create from './pages/Create';
 import { createTheme, ThemeProvider } from '@mui/material';
 import { green } from '@mui/material/colors';
-import Layout from './components/Layout.jsx';
+import Layout from './pages/Layout.jsx';
 
+
+
+const router = createBrowserRouter(
+    createRoutesFromElements(
+        <Route path='/' element={<Layout />} >
+            <Route index element={<Notes />} />
+            <Route path='create' element={<Create />} />
+        </Route>
+    )
+)
 
 const theme = createTheme({
     palette: {
@@ -21,20 +31,10 @@ const theme = createTheme({
 function App() {
     return (
         <ThemeProvider theme={theme}>
-            <Router>
-                <Layout >
-                    <Switch>
-                        <Route exact path="/">
-                            <Notes />
-                        </Route>
-                        <Route path="/create">
-                            <Create />
-                        </Route>
-                    </Switch>
-                </Layout>
-            </Router>
+            <RouterProvider router={router} />
         </ThemeProvider>
     );
 }
+
 
 export default App;
